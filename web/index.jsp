@@ -36,7 +36,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>Styled List</title>
+  <title>Actor DB Get</title>
 
   <link rel="stylesheet" type="text/css" href="custom.css">
 
